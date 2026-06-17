@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Playwright auto-generated reports and traces
+playwright-report/
+test-results/
+
+# Screenshots
+screenshots/*.png
+screenshots/*.jpg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables (best practice)
+.env
