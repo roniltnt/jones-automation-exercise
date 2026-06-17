@@ -5,10 +5,6 @@ node_modules/
 playwright-report/
 test-results/
 
-# Screenshots
-screenshots/*.png
-screenshots/*.jpg
-
 # OS generated files
 .DS_Store
 Thumbs.db
