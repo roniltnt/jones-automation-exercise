@@ -7,13 +7,16 @@ Playwright automation project for the callback form at [test.netlify.app](https:
 ```
 jones-automation-exercise/
 ├── pages/
-│   └── callbackPage.js      # Page Object: selectors + actions for the callback form
+│   └── callbackPage.js              # Page Object: selectors + actions for the callback form
+├── screenshots/                     # Auto-created on first run; stores pre-submission screenshots
 ├── tests/
-│   └── callback.test.js     # Test suite
-├── screenshots/             # Auto-created on first run; stores pre-submission screenshots
-├── playwright.config.js     # Playwright configuration (browser, timeouts, reporter)
-├── package.json
-└── README.md
+│   └── callback.test.js             # Test suite
+├── .gitignore                       # Git ignore rules
+├── Jones Exercise - Answers.pdf     # Answers for the theoretical part
+├── package-lock.json                # Locked dependency versions
+├── package.json                     # Node dependencies and project scripts
+├── playwright.config.js             # Playwright configuration (browser, timeouts, reporter)
+└── README.md                        # Project documentation
 ```
 
 ## Prerequisites
