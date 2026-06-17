@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:test.netlify.app)",
-      "PowerShell(node --version)",
-      "PowerShell(npm --version)"
-    ]
-  }
-}

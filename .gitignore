@@ -15,3 +15,6 @@ Thumbs.db
 
 # Environment variables (best practice)
 .env
+
+# AI Assistant config
+.claude/
